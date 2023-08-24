@@ -13,7 +13,7 @@ public class Calculator extends TestCase {
         }
 
     private int add(int a, int b) {
-        return a;
+        return 0;
     }
 
     public void testAddFlase() throws Exception {
